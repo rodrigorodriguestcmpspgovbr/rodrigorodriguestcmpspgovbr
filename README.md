@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rodrigo Maciel Rodrigues!
 
-<!--
-**rodrigorodriguestcmpspgovbr/rodrigorodriguestcmpspgovbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Sou programador e trabalho no **Tribunal de Contas do Município de São Paulo** no **Núcleo de Tecnologia da Informação**. Tenho experiência no desenvolvimento de soluções tecnológicas e avaliação de sistemas para a administração pública.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Habilidades
+- Desenvolvimento de sistemas para gestão pública
+- Integração de sistemas e segurança da informação
+- Automação de processos
+- Gestão e liderança de equipes técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- GitHub: [@rodrigorodriguestcmpspgovbr](https://github.com/rodrigorodriguestcmpspgovbr)
+- LinkedIn: [linkedin.com/in/rodrigo-maciel-rodrigues](#)
+
+Sempre aberto a trocar conhecimentos e colaborar em projetos inovadores! 🚀
